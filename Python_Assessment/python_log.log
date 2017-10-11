@@ -1,0 +1,36 @@
+INFO  2017-10-11 15:21:25,506 - Function check_additive is called with parameter 66121830 
+INFO  2017-10-11 15:21:25,506 - set first time value with a = 6 & b = 6 
+INFO  2017-10-11 15:21:25,506 - start the loop untill the last index of string 7
+INFO  2017-10-11 15:21:25,506 - we generated next value is c = 12
+INFO  2017-10-11 15:21:25,506 - Now we set the values of a & b to next operation
+INFO  2017-10-11 15:21:25,506 - Now, value of a is 6 & value of b is 12
+INFO  2017-10-11 15:21:25,506 - checking value of b and c are same or not
+INFO  2017-10-11 15:21:25,507 - value of i is updated to get out of loop after complition
+INFO  2017-10-11 15:21:25,507 - we generated next value is c = 18
+INFO  2017-10-11 15:21:25,507 - Now we set the values of a & b to next operation
+INFO  2017-10-11 15:21:25,507 - Now, value of a is 12 & value of b is 18
+INFO  2017-10-11 15:21:25,507 - checking value of b and c are same or not
+INFO  2017-10-11 15:21:25,507 - value of i is updated to get out of loop after complition
+INFO  2017-10-11 15:21:25,509 - we generated next value is c = 30
+INFO  2017-10-11 15:21:25,509 - Now we set the values of a & b to next operation
+INFO  2017-10-11 15:21:25,509 - Now, value of a is 18 & value of b is 30
+INFO  2017-10-11 15:21:25,509 - checking value of b and c are same or not
+INFO  2017-10-11 15:21:25,509 - value of i is updated to get out of loop after complition
+INFO  2017-10-11 15:25:46,569 - Function check_additive is called with parameter 66121830 
+INFO  2017-10-11 15:25:46,571 - set first time value with a = 6 & b = 6 
+INFO  2017-10-11 15:25:46,571 - start the loop untill the last index of string 7
+INFO  2017-10-11 15:25:46,571 - we generated next value is c = 12
+INFO  2017-10-11 15:25:46,571 - Now we set the values of a & b to next operation
+INFO  2017-10-11 15:25:46,571 - Now, value of a is 6 & value of b is 12
+INFO  2017-10-11 15:25:46,571 - checking value of b and c are same or not
+INFO  2017-10-11 15:25:46,572 - value of i is updated to get out of loop after complition with status of additive is True
+INFO  2017-10-11 15:25:46,572 - we generated next value is c = 18
+INFO  2017-10-11 15:25:46,572 - Now we set the values of a & b to next operation
+INFO  2017-10-11 15:25:46,572 - Now, value of a is 12 & value of b is 18
+INFO  2017-10-11 15:25:46,572 - checking value of b and c are same or not
+INFO  2017-10-11 15:25:46,572 - value of i is updated to get out of loop after complition with status of additive is True
+INFO  2017-10-11 15:25:46,572 - we generated next value is c = 30
+INFO  2017-10-11 15:25:46,572 - Now we set the values of a & b to next operation
+INFO  2017-10-11 15:25:46,572 - Now, value of a is 18 & value of b is 30
+INFO  2017-10-11 15:25:46,572 - checking value of b and c are same or not
+INFO  2017-10-11 15:25:46,572 - value of i is updated to get out of loop after complition with status of additive is True
