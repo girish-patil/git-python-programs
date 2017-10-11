@@ -10,8 +10,18 @@ Created on Tue Oct 10 15:44:44 2017
 #     How many rabbits and how many chickens do we have?
 
 
-#not done till now
+
 def puzzle(h,l):
-    
+
+    for r in range(h + 1):
+        c = h - r
+        if 2 * c + 4 * r == l:
+            print ("Number of chickens are %d and rabbits are %d."%(c,r))
+            
+
+
+h = 35
+l = 94
+puzzle(h,l)   
     
 

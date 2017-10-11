@@ -12,17 +12,24 @@ def check_additive(s):
     b = int(s[i])
     additive = True
     string_length = len(s)
-    while True:
+    while i < string_length:
         
         c = a + b
+        #d = c
+        #print d
+        c = str(c)
         length = len(c)
+        
         a = b
         b = int(s[i+1:i+length+1])
-        i = i+length
-        if b != c:
+        if b==int(c):
+            additive = True
+            print True
+        else:
             additive = False
             break
-        
+        i = i+length
+    
         if i == string_length:        
             break
         
